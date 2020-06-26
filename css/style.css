@@ -54,6 +54,7 @@ body{
 .cp{
   font-family: Nanum Gothic Coding;
   font-size: 14px;
+  color: aqua;
 }
 
 a{
@@ -71,3 +72,23 @@ hr{
   border-radius: 4px;
 }
 /* End New CSS */
+
+/* Portfolio */
+.in{
+  font-family: Nanum Gothic Coding;
+  font-size: 18px;
+}
+.mp{
+  color: aqua;
+  font-family: Anton;
+  margin-top: 45px;
+}
+
+h3{
+  font-family: Bangers;
+  color: darkorange;
+}
+.row{
+  margin-bottom: 30px;
+}
+/* end portfolio */
