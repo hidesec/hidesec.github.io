@@ -17,7 +17,7 @@ body {
     height: 600px;
     position: absolute;
     top: 50%;
-    margin-top: -300px;
+    margin-top: -120px;
     background-color: #333;
     overflow: hidden;
     -webkit-perspective: 800px;
